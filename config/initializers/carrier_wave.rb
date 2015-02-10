@@ -6,6 +6,6 @@ if Rails.env.production?
       :aws_access_key_id     => ENV['AKIAIV7OQXQUTBZ4KKQA'],
       :aws_secret_access_key => ENV['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']
     }
-    config.fog_directory     =  ENV['S3_BUCKET']
+    config.fog_directory     =  ENV['aleksar']
   end
 end
