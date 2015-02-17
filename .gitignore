@@ -21,3 +21,4 @@
 config/environments/production.rb
 config/secrets.yml
 config/initializers/carrier_wave
+public/assets
